@@ -1,12 +1,12 @@
-## Hi there, Thiago here!👋 
+## Olá, Thiago aqui! 👋 
 
-I'm Brazilian from the interior of the state of Minas Gerais, Southeast region of the country.
+Sou brasileiro do interior de Minas Gerais, região Sudeste do país.
 
-Focused on learning Front-end development technology in my spare time, of course dividing this time to pay attention to my family.
+Focado em aprender tecnologia de desenvolvimento Front-end nas minhas horas vagas, claro dividindo esse tempo para dar atenção à minha família.
 
-Seeking to absorb as much knowledge as possible and get a job in the area, I really admire the profession and what is possible to create using the imagination, in reality do not limit it, what limits is the knowledge and mastery of languages.
+Buscando absorver o máximo de conhecimento possível e conseguir um emprego na área, admiro muito a profissão e o que é possível criar usando a imaginação, na verdade não a limite, o que limita é o conhecimento e o domínio de línguas.
 
-Believe in your potential and move on, giving up is not an option for those who really have a solid goal, because they know that just by persisting in a dream it can become possible.
+Acredite no seu potencial e siga em frente, desistir não é uma opção para quem realmente tem um objetivo sólido, pois sabe que apenas persistindo em um sonho pode se tornar possível.
 
 <!-- 
 justify-content="center" 
